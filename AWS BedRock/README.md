@@ -1,2 +1,2 @@
--Deploy a chatbot on AWS Bedrock.
--Tools used: Docker and Streamlit
+- Deploy a chatbot on AWS Bedrock.
+- Tools used: Docker and Streamlit
