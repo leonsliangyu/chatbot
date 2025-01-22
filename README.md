@@ -8,3 +8,8 @@ A simple chatbot that runs the GPT2-NEO LLM model, GPT2-NEO is a better and larg
 
 ## summarize_bart_large_cnn.py
 A bot that summarizes text with a streamlit GUI, it runs the BART_Large_CNN model.  To run it use the command: streamlit run summarize_bart_large_cnn.py
+
+## translateEN_JP.py
+A bot that translate English to Japanese with a streamlit GUI.  
+To install the required library run: pip install SentencePiece
+To run use the command: streamlit run translateEN_JP.py
