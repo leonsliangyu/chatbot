@@ -3,6 +3,9 @@
 ## deepseek1.5b.py
 A simple chatbot that runs the DeepSeek-R1-Distill-Qwen-1.5B LLM model, it is the smallest DeepSeek-R1 model that can run on a regular laptop.
 
+![alt text](deepseek1.5b.jpg?raw=true)
+
+
 
 ## gpt2.py
 A simple chatbot that runs the GPT2 LLM model, GPT2 is a small LLM that can run on weak hardware.
