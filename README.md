@@ -1,6 +1,6 @@
 # ChatBots that can run locally
 
-## deepseek1.5b.py
+## DeepSeek1.5b.py
 A simple chatbot that runs the DeepSeek-R1-Distill-Qwen-1.5B LLM model, it is the smallest DeepSeek-R1 model that can run on a regular laptop.
 
 ![alt text](deepseek1.5b.jpg?raw=true)
